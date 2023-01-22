@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, Problem Solver, Learner, Gamer
 -----------------------------------------
 
-I love cats
+
 
 * 🌍  I'm based in New Delhi, IN
 * ✉️  You can contact me at [213ankit.kumar@gmail.com](mailto:213ankit.kumar@gmail.com)
