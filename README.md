@@ -8,7 +8,7 @@ Developer, Problem Solver, Learner, Gamer
 
 * 🌍  I'm based in New Delhi, IN
 * ✉️  You can contact me at [213ankit.kumar@gmail.com](mailto:213ankit.kumar@gmail.com)
-* 🚀  I'm currently working on [Cognizant](http://www.cognizant.com/us/en)
+* 🚀  I'm currently working on [Techverse Orgin](http://techverse.co.nz/)
 * 🧠  I'm learning TypeScript and Blockchain
 * 🤝  I'm open to collaborating on Open Source Projects or discussion
 
